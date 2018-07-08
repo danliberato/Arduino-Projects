@@ -7,6 +7,7 @@ This project requires:
 - 10K Ohm resistor
 - 10K Thermistor
 - Some wires
+- A NPN transistor (2SK3797 in this case)
 - A 12v PSU
 - A 5v PSU (or USB cable)
 
